@@ -1,5 +1,6 @@
 CRIS TEST
 
 
-LINE1
+LINE(UPDATE)
+line3 
 LINE2
